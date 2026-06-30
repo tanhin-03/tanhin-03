@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Shelling, a Business Analyst 💙</div>  
+### <div align="center">I'm Shelling, a IT specialist 💙</div>  
   
 
-- 🔥 I’m currently learning software engineer at FPT University  
+- 🔥 I am currently working at Central Retail Vietnam
   
 
 - 🍀 Tell me what you want, I will make it happen 👌
