@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Shelling, a IT specialist 💙</div>  
+### <div align="center">I'm Shelling, an IT specialist 💙</div>  
   
 
 - 🔥 I am currently working at Central Retail Vietnam
